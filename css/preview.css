@@ -142,6 +142,9 @@ color: #1A1A1A;
     font-family: Framework7 Icons;
     font-size: 40px;
 }
+.new {
+    margin: 30px;
+}
 .new img{
     width:60px;
     height:60px;
