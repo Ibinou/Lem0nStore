@@ -10,10 +10,6 @@
   background-color: rgba(42, 42, 42, 0.4);
   border-top: 1px solid rgb(45, 45, 45);
 }
-feuille de style user-agent
-div {
-    display: block;
-}
 .bloc-icon {
   display: flex;
   justify-content: center;
