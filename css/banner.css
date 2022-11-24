@@ -1,11 +1,11 @@
-      .slider{
+      .banner{
         display:flex;
         overflow-x: auto;
         -webkit-overflow-scrolling:touch;
       }
 
-      .banners div{
+      .banner div{
         flex-shrink:0;
-        width:120px;
-        height:120px;
+        width:100px;
+        height:100px;
       }
