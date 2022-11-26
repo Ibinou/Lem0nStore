@@ -5,7 +5,7 @@ html {
   color: #fff;
 }
 input {
-    background-color: #808080;
+    background-color: rgb(35,35,35);
     border-style: none;
     width: 320px;
     height: 35px;
@@ -14,7 +14,7 @@ input {
     color: #fff;
 }
 button {
-    background-color: #4eef2c;
+    background-color: rgb(35,35,35);
     border-style: none;
     width: 320px;
     height: 35px;
