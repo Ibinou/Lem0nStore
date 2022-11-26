@@ -1,11 +1,11 @@
 body,
 html {
   font-family: helvetica;
-  background-color: #000000;
-  color: #ffffff;
+  background-color: #000;
+  color: #fff;
 }
 input {
-    background-color: #ffffff;
+    background-color: #808080;
     border-style: none;
     width: 320px;
     height: 35px;
@@ -14,7 +14,7 @@ input {
     color: #fff;
 }
 button {
-    background-color: #e8a87c;
+    background-color: #4eef2c;
     border-style: none;
     width: 320px;
     height: 35px;
