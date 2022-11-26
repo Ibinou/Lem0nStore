@@ -5,12 +5,12 @@ html {
   color: #ffffff;
 }
 input {
-    background-color: #e27d60;
+    background-color: #ffffff;
     border-style: none;
     width: 320px;
     height: 35px;
     margin-top: 10px;
-    border-radius: 20px;
+    border-radius: 10px;
     color: #fff;
 }
 button {
@@ -19,6 +19,6 @@ button {
     width: 320px;
     height: 35px;
     margin-top: 10px;
-    border-radius: 20px;
+    border-radius: 10px;
     color: #fff;
 }
