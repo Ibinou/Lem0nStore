@@ -43,3 +43,14 @@ h1 {
     margin-inline-end: 0px;
     font-weight: bold;
 }
+.apps a:hover{
+    display:block;
+    width:55px;
+    padding:5px;
+    border-radius:50px;
+    float: right;
+    color: #FFFFFF;
+    margin-right:0px;
+    font-family: Framework7 Icons;
+    font-size: 40px;
+}
