@@ -88,57 +88,6 @@ color: #1A1A1A;
     height:25px;
     font-size: 25px;
 }
-.apps{
-    width:85%;
-    border-radius:20px;
-    height:auto;
-}
-.apps img{
-    width:60px;
-    height:60px;
-    float:left;
-    border-radius:23.3%;
-    margin-left:0px;
-}
-.apps h1{
-    font-size:16px;
-    margin-left:70px;
-    text-align:justify;
-    margin-bottom:0px;
-    color: #cf4242;
-}
-.apps p{
-    font-size:13px;
-    margin-left:-25px;
-    opacity:0.6;
-    padding:5px;
-    border-radius:5px;
-    width:100px;
-    text-align:justify;
-    margin-top:2px;
-}
-.apps a{
-    display:block;
-    width:55px;
-    padding:5px;
-    border-radius:50px;
-    float: right;
-    color: #cf4242;
-    margin-right:0px;
-    font-family: Framework7 Icons;
-    font-size: 40px;
-}
-.apps a:hover{
-    display:block;
-    width:55px;
-    padding:5px;
-    border-radius:50px;
-    float: right;
-    color: #FFFFFF;
-    margin-right:0px;
-    font-family: Framework7 Icons;
-    font-size: 40px;
-}
 .new {
     margin: 30px;
 }
