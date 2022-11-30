@@ -2,7 +2,7 @@ body {
     margin:0px;
     padding:0;
     font-family:helvetica;
-    background-color: #000000;
+    background-color: #cf4242;
     color: #FFFFFF;
     overflow-x: hidden;
     user-select: none;
@@ -18,7 +18,7 @@ a{
 .top{
     background-color:#;
     background-size: cover;
-    text-align:left;
+    text-align:center;
     padding-bottom:20px;
 }
 .top img{
