@@ -2,7 +2,7 @@ body {
     margin:0px;
     padding:0;
     font-family:helvetica;
-    background-color: #090909;
+    background-color: #111111;
     color: #ffffff;
     overflow-x: hidden;
     user-select: none;
@@ -93,7 +93,7 @@ color: #1A1A1A;
     padding:20px;
     width:80%;
     border-radius:20px;
-    background-color: #090909;
+    background-color: #111111;
     height:60px;
 }
 .apps img{
@@ -147,7 +147,7 @@ color: #1A1A1A;
     padding:20px;
     width:80%;
     border-radius:15px;
-    background-color: #090909;
+    background-color: #111111;
     height:auto;
 }
 .new img{
