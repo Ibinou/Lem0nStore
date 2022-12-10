@@ -179,7 +179,7 @@ color: #1A1A1A;
     padding:5px;
     border-radius:50px;
     float: right;
-    color: #0a87f5;
+    background: -webkit-linear-gradient(#eee, #333);
     margin-right:0px;
     font-family: Framework7 Icons;
     font-size: 40px;
