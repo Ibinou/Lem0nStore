@@ -179,7 +179,7 @@ color: #1A1A1A;
     padding:5px;
     border-radius:50px;
     float: right;
-    background: -webkit-linear-gradient(#1080e3, #e33d5c);
+    background: -webkit-gradient(linear, left top, left bottom, from(#e33d5c), to(#fff))
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     margin-right:0px;
