@@ -180,6 +180,8 @@ color: #1A1A1A;
     border-radius:50px;
     float: right;
     background: -webkit-linear-gradient(#1080e3, #e33d5c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     margin-right:0px;
     font-family: Framework7 Icons;
     font-size: 40px;
